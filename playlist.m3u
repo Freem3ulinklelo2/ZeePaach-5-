@@ -1,80 +1,80 @@
 #EXTM3U
-#Generated on 1765915764
+#Generated on 1765916281
 
 #EXTM3U
 # https://t.me/streamflex19
 
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-zeenews" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png",Zee News
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105510/ZEENEWSELE/master.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105510/ZEENEWSELE/master.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-indiatoday" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png",India Today
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105501/INDIATODAYHDNEWSELE/index-connected.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105501/INDIATODAYHDNEWSELE/index-connected.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-255" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Good_News_Today.png",Good News Today
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105499/GOODNEWSTODAYHDNEWSELE/index-connected.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105499/GOODNEWSTODAYHDNEWSELE/index-connected.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-zeebusiness" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105509/ZEEBUSINESSELE/master.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105509/ZEEBUSINESSELE/master.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-wion" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/WION.png",WION
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105506/WIONNEWSELE/master.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105506/WIONNEWSELE/master.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-zeehindustan" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bharat.png",Zee Bharat
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105262/ZEEBHARATNEWSNEWELE/master.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105262/ZEEBHARATNEWSNEWELE/master.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-zeebiharjharkhand" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bihar_Jharkhand.png",Zee Bihar Jharkhand
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105492/ZEEBHJKELE/master.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105492/ZEEBHJKELE/master.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-24ghantatv" group-title="Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png",Zee 24 Ghanta
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105511/ZEE24GHANTAELE/master.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105511/ZEE24GHANTAELE/master.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-zeerajasthannews" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Rajasthan_News.png",Zee Rajasthan News
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105496/ZEERAJASTHANELE/master.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105496/ZEERAJASTHANELE/master.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-zeemadhyapradeshchat" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Madhya_Pradesh_Chhattisgarh.png",Zee MP Chhattisgarh
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105495/ZEEMPCGELE/master.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105495/ZEEMPCGELE/master.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png",Big Magic
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105176/BigMagicELE/master.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105176/BigMagicELE/master.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-zing" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png",Zing
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",&TV HD
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105520/ZeeMarathiHDELE/index-connected.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105520/ZeeMarathiHDELE/index-connected.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-zeecafehd" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png",Zee Café HD
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105539/ZeecafeHDELE/index-connected.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105539/ZeecafeHDELE/index-connected.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-zeeanmol" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105526/ZeeAnmolELE/master.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105526/ZeeAnmolELE/master.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-zeeanmolcinema" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105525/ZeeAnmolCinemaELE/master.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105525/ZeeAnmolCinemaELE/master.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-zeecinema" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105552/ZeeCinemaELE/master.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105552/ZeeCinemaELE/master.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-zeetv" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105536/ZeeTVELE/master.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105536/ZeeTVELE/master.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-zeesalaam" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Salaam.png",Zee Salaam
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105104/ZEESALAAMELE/master.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105104/ZEESALAAMELE/master.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-sarthaktv" group-title="Odia" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Sarthak.png",Zee Sarthak
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105541/ZeeSarthakELE/master.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105541/ZeeSarthakELE/master.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
 
 #EXTINF:-1 tvg-id="0-9-zeepunjabharyanahima" group-title="Punjabi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjab_Haryana_Himachal_Pradesh.png",Zee Punjab Haryana HP
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105493/ZEEPUHRHIELE/master.m3u8?hdntl=exp=1765975475~acl=%2f*~id=a40e0114-22ff-4d04-bd6c-2c93440ffa0c~data=hdntl~hmac=3a79752dc1b20ad352fcc4e7ca5a15a2e449207de22b60547ba5fa7aa0066aab
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105493/ZEEPUHRHIELE/master.m3u8?hdnea=st=1765916068~exp=1765916368~acl=*~id=80be3b28-bc3d-44b5-b63b-57b0ba99b61b~hmac=098863de059d7a3a317db32e8d197d599768fcf3694e474abc172293155c31ca
